@@ -1,0 +1,34 @@
+body{
+	font-size: 16px;
+	font-weight: 400;
+	color: #333333;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  background-image: url(bg.png);
+  background-color: #E1E0DE;
+}
+
+h1 {color: #5d8e34;} /* #5d8e34 */
+
+h2 {
+	color: #8cd527; /* #8cd527*/
+	font-size: 22px;
+}
+
+.komentare {
+	color: #969896;
+	font-style: italic;
+	background: transparent;
+	background-color: #232C31;
+	/*display: block;*/
+	font-family: "Monaco", "Menlo", "Ubuntu Mono", "Droid Sans Mono", "Consolas", monospace;
+	margin: 0px;
+	padding: 0.8em;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+	/*line-height: 20px;*/
+}
+
+.spanBlock{
+  display: block;
+}
